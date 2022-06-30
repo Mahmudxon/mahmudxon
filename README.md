@@ -12,4 +12,5 @@ I'm Makhmudkhon, a Software Developer from Uzbekistan.
 [<img alt="Koin" title="Koin" width="40px" src="https://insert-koin.io/img/koin_new_logo.png">](https://insert-koin.io/)|[<img alt="Jetpack Compose" title="Jetpack Compose" width="40px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png">](https://developer.android.com/jetpack/compose)|[<img alt="CMake" title="CMake" width="40px" src="https://cmake.org/wp-content/uploads/2018/11/cmake_logo_slider.png">](https://cmake.org/)|[<img alt="Ktor" title="Ktor" width="40px" src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-dark.svg">](https://ktor.io/)
 
 
-
+### GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mahmudxon&show_icons=true)
