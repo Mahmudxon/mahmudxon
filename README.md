@@ -13,4 +13,9 @@ I'm Makhmudkhon, a Software Developer from Uzbekistan.
 
 
 ### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mahmudxon&show_icons=true)
+![](https://komarev.com/ghpvc/?username=Mahmudxon)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmudxon&show_icons=true" width="500">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudxon&theme=light" width="500">
+
