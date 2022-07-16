@@ -16,7 +16,7 @@ I'm Makhmudkhon, a Software Developer from Uzbekistan.
  <strong>GitHub Stats</strong>
     </summary>
 
-<br> ![](https://komarev.com/ghpvc/?username=Mahmudxon)
+<br> ![](https://komarev.com/ghpvc/?username=Mahmudxon) [![Github](https://img.shields.io/github/followers/Mahmudxon?label=Follow&style=social)](https://github.com/Mahmudxon)
 
 <br>  <img src="https://github-readme-stats.vercel.app/api?username=mahmudxon&show_icons=true" width="500">
 
