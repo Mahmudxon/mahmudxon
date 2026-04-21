@@ -1,24 +1,20 @@
-### Hi there 👋
+# Mahmudxon Umarxonov
 
-I'm Makhmudkhon, a Software Developer from Uzbekistan.
+Software engineer and technology builder &mdash; Tashkent, Uzbekistan.
 
-**Programming Languages**
-[<img alt="JAVA" title="Java" width="40px" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">](https://docs.oracle.com/en/java/javase/11/)|[<img title="Kotlin" alt="Kotlin" width="40px" src="https://sdtimes.com/wp-content/uploads/2018/02/pCfEzr6L_400x400.png">](https://kotlinlang.org/)|[<img title="C++" alt="CPP" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/180px-ISO_C%2B%2B_Logo.svg.png">](https://cplusplus.com/)
-|--|--|--|
+Visiting card: **[mahmudxon.uz](https://mahmudxon.uz)**
 
-**Libraries and Frameworks**
-[<img alt="Android" title="Android" width="40px" src="https://logodownload.org/wp-content/uploads/2015/05/android-logo-3-2.png">](https://developer.android.com/)|[<img title="Dagger / Hilt" alt="Dagger" width="40px" src="https://miro.medium.com/max/321/1*ZHDFHf2l1dh__D7gvyIT4w.png">](https://dagger.dev/)|[<img title="SQLite" alt="SQLite" width="40px" src="https://sqlitebrowser.org/images/sqlitebrowser.svg">](https://www.sqlite.org/index.html)|[<img title="Room" alt="Room" width="40px" src="https://raw.githubusercontent.com/irontec/android-room-example/master/logo.png">](https://developer.android.com/jetpack/androidx/releases/room)
-|--|--|--|--|
-[<img alt="Koin" title="Koin" width="40px" src="https://insert-koin.io/img/koin_new_logo.png">](https://insert-koin.io/)|[<img alt="Jetpack Compose" title="Jetpack Compose" width="40px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png">](https://developer.android.com/jetpack/compose)|[<img alt="CMake" title="CMake" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Cmake.svg/1200px-Cmake.svg.png">](https://cmake.org/)|[<img alt="Ktor" title="Ktor" width="40px" src="https://raw.githubusercontent.com/ktorio/ktor/main/.github/images/ktor-logo-for-dark.svg">](https://ktor.io/)
+---
 
-<details>
-    <summary>
- <strong>GitHub Stats</strong>
-    </summary>
+Shipping mobile products, secure communications, and engineering teams for the past five years.
 
-<br> ![](https://komarev.com/ghpvc/?username=Mahmudxon) [![Github](https://img.shields.io/github/followers/Mahmudxon?label=Follow&style=social)](https://github.com/Mahmudxon)
+**Focus** &middot; Mobile platforms &middot; Secure messaging &amp; cryptography &middot; Engineering leadership
 
-<br>  <img src="https://github-readme-stats.vercel.app/api?username=mahmudxon&show_icons=true" width="500">
+**Toolkit** &middot; Kotlin &middot; Java &middot; C++ &middot; Jetpack Compose &middot; Ktor &middot; Hilt &middot; CMake
 
-<br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmudxon&theme=light" width="500">
-</details>
+---
+
+[LinkedIn](https://mahmudxon.uz/social/?social=linkedIn) &middot;
+[GitHub](https://mahmudxon.uz/social/?social=github) &middot;
+[Telegram](https://mahmudxon.uz/social/?social=telegram) &middot;
+[Email](https://mahmudxon.uz/social/?social=mail)
