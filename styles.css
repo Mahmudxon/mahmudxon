@@ -184,6 +184,67 @@ a {
 	opacity: 0.55;
 }
 
+.hero-code {
+	font-family: var(--serif);
+	font-weight: 500;
+	font-size: clamp(4.5rem, 14vw, 8rem);
+	line-height: 1;
+	letter-spacing: 0.04em;
+	color: var(--text);
+	margin-bottom: 0.75rem;
+	background: linear-gradient(180deg, var(--text) 0%, var(--text-dim) 100%);
+	-webkit-background-clip: text;
+	background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+.card--compact {
+	max-width: 640px;
+}
+
+.card--compact .identity {
+	padding-bottom: 1.5rem;
+}
+
+.actions {
+	text-align: center;
+	padding: 0.5rem 0 clamp(1.5rem, 3vw, 2rem);
+}
+
+.action {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.6rem;
+	padding: 0.75rem 1.5rem;
+	border: 1px solid var(--line-strong);
+	border-radius: 2px;
+	color: var(--text-dim);
+	font-size: 0.72rem;
+	font-weight: 500;
+	letter-spacing: 0.28em;
+	text-transform: uppercase;
+	background: rgba(255, 255, 255, 0.015);
+	transition: color 0.3s ease, border-color 0.3s ease, background 0.3s ease, transform 0.3s ease;
+}
+
+.action:hover,
+.action:focus-visible {
+	color: var(--accent);
+	border-color: var(--accent);
+	background: var(--accent-soft);
+	transform: translateY(-2px);
+	outline: none;
+}
+
+.action__arrow {
+	display: inline-block;
+	transition: transform 0.3s ease;
+}
+
+.action:hover .action__arrow {
+	transform: translateX(-3px);
+}
+
 /* -------- Statement -------- */
 
 .statement {

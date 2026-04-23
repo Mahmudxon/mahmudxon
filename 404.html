@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<title>404 &middot; Mahmudxon Umarxonov</title>
+	<meta name="description" content="Page not found." />
+	<meta name="robots" content="noindex" />
+	<meta name="theme-color" content="#0a0a0b" />
+
+	<link rel="icon" href="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><rect width='64' height='64' rx='12' fill='%230a0a0b'/><text x='50%25' y='54%25' text-anchor='middle' dominant-baseline='middle' font-family='Georgia,serif' font-size='34' fill='%23c9a961'>M</text></svg>" />
+
+	<link rel="preconnect" href="https://fonts.googleapis.com" />
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+	<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Playfair+Display:ital,wght@0,400;0,500;0,600;1,400&display=swap" rel="stylesheet" />
+	<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+	<div class="stage">
+		<article class="card card--compact" role="main">
+
+			<header class="identity">
+				<div class="monogram" aria-hidden="true"><span>M</span></div>
+				<p class="eyebrow">Error &middot; Not Found</p>
+				<h1 class="hero-code" aria-label="404">404</h1>
+				<p class="role">Page Not Found</p>
+				<div class="rule" aria-hidden="true"></div>
+			</header>
+
+			<section class="statement">
+				<p>
+					The page you are looking for has moved, been retired, or
+					perhaps never existed. Please return to the card.
+				</p>
+			</section>
+
+			<div class="actions">
+				<a class="action" href="/">
+					<span class="action__arrow" aria-hidden="true">&larr;</span>
+					<span>Return to the card</span>
+				</a>
+			</div>
+
+			<footer class="contact">
+				<p class="imprint">
+					<span>&copy; <span id="year">2026</span> &middot; Mahmudxon Umarxonov</span>
+				</p>
+			</footer>
+
+		</article>
+	</div>
+
+	<script>
+		document.getElementById('year').textContent = new Date().getFullYear();
+	</script>
+</body>
+</html>
