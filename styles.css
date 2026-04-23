@@ -370,42 +370,6 @@ a {
 	text-transform: none;
 }
 
-/* -------- Facets (languages) -------- */
-
-.facets {
-	list-style: none;
-	display: flex;
-	flex-direction: column;
-	gap: 0.55rem;
-}
-
-.facets li {
-	display: flex;
-	align-items: baseline;
-	justify-content: space-between;
-	gap: 1rem;
-	padding: 0.3rem 0;
-	border-bottom: 1px dotted var(--line);
-	font-size: 0.9rem;
-}
-
-.facets li:last-child {
-	border-bottom: none;
-}
-
-.facets li span {
-	color: var(--text);
-	font-weight: 400;
-}
-
-.facets li em {
-	font-style: normal;
-	color: var(--text-faint);
-	font-size: 0.72rem;
-	letter-spacing: 0.2em;
-	text-transform: uppercase;
-}
-
 /* -------- Tags (expertise) -------- */
 
 .tags {
@@ -617,7 +581,6 @@ a {
 	.timeline__body h3,
 	.projects h3,
 	.edu h3,
-	.facets li span,
 	.contact__value {
 		color: #111;
 	}
@@ -628,8 +591,7 @@ a {
 	.imprint,
 	.contact__label,
 	.projects .muted,
-	.timeline__meta,
-	.facets li em {
+	.timeline__meta {
 		color: #555;
 	}
 
