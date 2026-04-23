@@ -268,8 +268,13 @@ a {
 
 .layout {
 	display: grid;
-	grid-template-columns: 1.55fr 1fr;
+	grid-template-columns: 1.15fr 1fr;
 	gap: clamp(2rem, 4vw, 3.5rem);
+	padding: clamp(2rem, 4vw, 2.75rem) 0;
+	border-bottom: 1px solid var(--line);
+}
+
+.block--full {
 	padding: clamp(2rem, 4vw, 2.75rem) 0;
 	border-bottom: 1px solid var(--line);
 }
@@ -373,6 +378,15 @@ a {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
 	gap: 1.1rem 1.5rem;
+}
+
+.projects--wide {
+	grid-template-columns: repeat(3, 1fr);
+	gap: 1.25rem 1.5rem;
+}
+
+.projects--wide li {
+	padding: 1.1rem 1.15rem;
 }
 
 .projects li {
@@ -563,13 +577,20 @@ a {
 
 /* -------- Responsive -------- */
 
+@media (max-width: 960px) {
+	.projects--wide {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+
 @media (max-width: 860px) {
 	.layout {
 		grid-template-columns: 1fr;
 		gap: 2rem;
 	}
 
-	.projects {
+	.projects,
+	.projects--wide {
 		grid-template-columns: 1fr;
 	}
 }
