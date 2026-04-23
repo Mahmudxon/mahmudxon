@@ -208,7 +208,7 @@ a {
 
 .actions {
 	text-align: center;
-	padding: 0.5rem 0 clamp(1.5rem, 3vw, 2rem);
+	padding: clamp(1.75rem, 3.5vw, 2.5rem) 0 clamp(0.5rem, 1.5vw, 1rem);
 }
 
 .action {
@@ -243,6 +243,10 @@ a {
 
 .action:hover .action__arrow {
 	transform: translateX(-3px);
+}
+
+.action:hover .action__arrow--right {
+	transform: translateX(3px);
 }
 
 /* -------- Statement -------- */
